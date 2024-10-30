@@ -1,0 +1,15 @@
+#root {
+
+  margin: 0 auto;
+color: #FBFBFB;
+  text-align: center;
+}
+
+.container {
+  border-radius: 36px;
+  height: 400px;
+  width: 1000px;
+  background: linear-gradient(90deg, #183025 0.25%, #183621 57.35%, #1D371A 99.76%);
+
+}
+
